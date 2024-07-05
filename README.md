@@ -2,7 +2,8 @@
  
  👀 I’m interested in learning Artificial Intelligence & Machine Learning
  
- 🌱 I’m currently learning cybersecurity,html,css,java
+ 🌱 I’m currently learning cybersecurity,html,css,java & python
+
 
 
 <!---
